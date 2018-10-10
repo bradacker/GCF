@@ -1,3 +1,5 @@
 url: http://goodcampingfood.com
 name: Good Camping Food
 description: Outdoor Cooking
+
+theme: jekyll-theme-minimal
