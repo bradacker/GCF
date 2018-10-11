@@ -5,9 +5,6 @@
 layout: home
 ---
 ---
-layout: default
-title: Blog Posts
----
 
 <div id="home">
   <h2><i class="fa fa-bookmark"></i> Blog Posts</h2>
