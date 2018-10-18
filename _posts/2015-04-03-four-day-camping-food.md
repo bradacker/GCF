@@ -9,7 +9,7 @@ permalink: /four-day-camping-food/
 categories:
   - Good Camping Food
 ---
-We grabbed a low-cost little grill, yet just before that we simply brought along a grill to put over the campfire location and also tossed some briquets under it.
+We grabbed a low-cost little grill, yet just before that we simply brought along a grill to put over the campfire :fire: location and also tossed some briquets under it.
 
 The first night out we have actually done kebabs ready and skewered in your home, simply toss them on the grill.<!--more-->
 
