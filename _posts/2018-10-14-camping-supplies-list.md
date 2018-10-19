@@ -1,16 +1,15 @@
 ---
 id: 112
+layout: post
 title: Camping Supplies List
-date: 2012-05-13T05:07:39+00:00
-author: brad
-layout: page
+date: 2018-10-14 15:40:34 -0500
 guid: http://goodcampingfood.com/?page_id=112
 thesis_title:
   - Camping Supplies List
 thesis_description:
   - "Camping supplies list of essential survival gear to luxury camping. You'll find everything you might need to enjoy camping."
 ---
-Check back as this list will be updated often. Feel free to <a title="Contact" href="http://goodcampingfood.com/contact/" target="_blank">contact us</a> with any recommendations.
+Check back as this list will be updated often. Feel free to <a title="Contact" href="http://twitter.com/goodcampinfood/" target="_blank">contact us</a> with any recommendations.
 
 Use your best judgement in what you think you&#8217;ll need. You don&#8217;t want to pack a bunch of extra stuff that you will never use.
 

@@ -1,9 +1,9 @@
 ---
 id: 54
 title: Camping Packing List
-date: 2012-05-02T17:06:46+00:00
+date: 2018-09-10T17:06:46+00:00
 author: brad
-layout: page
+layout: post
 guid: http://goodcampingfood.com/?page_id=54
 thesis_title:
   - Camping Packing List
@@ -40,16 +40,11 @@ This is an edited version of the Boy Scouts list that you can find here.
 
 ### Some other items you will want to consider:
 
-Firestarter
-
-Multi-tool
-
-Pot (MSR Alpine Stowaway Pot)
-
-Portable mini stove (MSR Pocket Rocket)
-
-Backpack
-
-Hiking Shoes
+-Firestarter
+-Multi-tool
+-Pot (MSR Alpine Stowaway Pot)
+-Portable mini stove (MSR Pocket Rocket)
+-Backpack
+-Hiking Shoes
 
 This will be a revolving list that gets updated periodically. It will surely only get better. If you have any suggestions, please contact us.
