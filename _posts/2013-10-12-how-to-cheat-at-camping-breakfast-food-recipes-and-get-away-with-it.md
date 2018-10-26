@@ -5,7 +5,7 @@ date: 2013-10-12T03:23:29.000Z
 author: brad
 layout: post
 guid: 'http://goodcampingfood.com/?p=235'
-permalink: /camping-breakfast-food-recipes/
+permalink: /how-to-cheat-at-camping-breakfast-food-recipes-and-get-away-with-it/
 categories:
   - Good Camping Food
 tags:
