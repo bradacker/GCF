@@ -1,15 +1,16 @@
 ---
 id: 235
 title: How to Cheat at Camping Breakfast Food Recipes and Get Away With It
-date: 2013-10-12T03:23:29+00:00
+date: 2013-10-12T03:23:29.000Z
 author: brad
 layout: post
-guid: http://goodcampingfood.com/?p=235
-permalink: /how-to-cheat-at-camping-breakfast-food-recipes-and-get-away-with-it/
+guid: 'http://goodcampingfood.com/?p=235'
+permalink: /camping-breakfast-food-recipes/
 categories:
   - Good Camping Food
 tags:
   - camping breakfast
+published: true
 ---
 Alternating days with light morning meals and larger morning meals depending on exactly how much bodily task you have actually intended for each day. A wonderful morning meal choice is pre-measured baggies complete of folded cereals prepared over a camp range or split second <a title="Dutch Oven Recipes for Camping" href="http://goodcampingfood.com/dutch-oven-recipes-for-camping/" target="_blank">slow cooked</a> oatmeal packages if you&#8217;re really feeling sluggish. Various other strong early meal options are entire wheat or grain pancakes or a vegetable omelet made with powdered eggs.
 
